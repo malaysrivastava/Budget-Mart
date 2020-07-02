@@ -1,0 +1,32 @@
+body{
+    background-color: #345995;
+    background-blend-mode: difference;
+    margin: auto;
+    
+}
+
+.footer {
+    background-color: black;
+    padding: 12px 0px 12px 0px;
+    margin-bottom: 0px;
+    border-radius: 25px 25px 0px 0px;
+  }
+
+  .logo{
+      border-radius: 100%;
+      width: 300px;
+      cursor: pointer;
+      text-align: center;
+  }
+
+  .brand{
+    font-family: 'Chelsea Market', cursive;
+    color: aliceblue;
+    font-size: 4rem;
+    padding-top: 15%;
+    }
+    .play{
+        width: 150px;
+       }
+
+     
